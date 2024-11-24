@@ -1,12 +1,10 @@
 <h1 align="left">Hi 👋, I'm Mobin</h1>
-<h3 align="left">Frontend Developer with an Endless Passion for Learning</h3><p> • Continuously striving to grow, innovate, and deliver better solutions every day.</p>
 
 <h3 align="left"> Frontend Developer at Rayka Noor 8 </h3>
-• Developing scalable dashboards and feature-rich e-commerce projects to enhance user experiences and drive business success.
 <br/>
-<h3 align="left">What I Love:</h3>
-<p align="left">• Continuously learning and improving as a frontend developer</p>
-<p align="left">• Creating large-scale programs that people enjoy and rely on.</p>
+<h3 align="left">What I'm Passionate About:</h3>
+<p align="left">• Learning and Improving as a Frontend Developer</p>
+<p align="left">• Creating Large Scale programs that people enjoy and rely on.</p>
 <p align="left">• Evolving as a software engineer to make meaningful contributions beyond just coding.</p>
 <p align="left">• Collaborating with large, passionate teams to achieve impactful results.</p>
 <p align="left">• Tackling complex problems and crafting better solutions.</p>
