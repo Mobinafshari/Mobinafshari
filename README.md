@@ -12,7 +12,7 @@
 <p align="left">• I wanna know myself better and try to be better person.</p>
 
 <h3 align="left">Lets Connect :)</h3>
-<p align="left">• let's collaborate and grow together by imoroving our knowledge and personalities,I'd also be thrilled to contribute to your open source projects.</p>
+<p align="left">• let's collaborate and grow together by imoroving our knowledge and personalities,I'd also be happy to contribute to your open source projects.</p>
 <p align="left">• <strong>Fun Facts:</strong> I love games ,watching anime , cooking </p>
 <h3 align="left">How to Reach me:</h3>
 
