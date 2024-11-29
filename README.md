@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mobin</h1>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <h3 align="left"> Frontend Developer at Rayka</h3>
 <h3 align="left">What I'm Passionate About:</h3>
 <p align="left">• learning and improving as a <strong>Frontend Developer.</strong></p>
