@@ -15,7 +15,7 @@
 
 <h3 align="left">Lets Connect :)</h3>
 <p align="left">• let's collaborate and grow together by improving our knowledge and personalities,I'd also be happy to contribute to your open source projects.</p>
-<p align="left">• <strong>Fun Facts:</strong> I love games ,watching anime , cooking </p>
+<p align="left">• <strong>Fun Facts:</strong> I love games ,watching anime , cooking.</p>
 <div align="left" style="display: flex; align-items: center; justify-content: center;">
   <p><strong>• How to Reach me:<strong/></p>
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/mobin-afshari/">
