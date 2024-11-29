@@ -21,7 +21,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/mobin-afshari/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mobin__afsharii">
+    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mobin_afsharii">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 </div>
 
