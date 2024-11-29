@@ -25,8 +25,9 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mobinafshari">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	  <a style="margin-left: 10px;" target="_blank" emailto="m@gmail.com">
-		<img src="https://img.icons8.com/?size=48&id=nQ4dZIRCI0nW&format=png&color=000000"></a>
+	  <a href="mailto:afshari.mobin00@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=48&id=nQ4dZIRCI0nW&format=png&color=000000" alt="Email" style="vertical-align: middle;">
+</a>
 </div>
 
 
