@@ -17,12 +17,14 @@
 <p align="left">• let's collaborate and grow together by imoroving our knowledge and personalities,I'd also be happy to contribute to your open source projects.</p>
 <p align="left">• <strong>Fun Facts:</strong> I love games ,watching anime , cooking </p>
 <div align="left" style="display: flex; align-items: center; justify-content: center;">
-  <p style="margin: 0; font-weight: bold;"><strong>• How to Reach me:<strong/></p>
+  <p><strong>• How to Reach me:<strong/></p>
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/mobin-afshari/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
     <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mobin_afsharii">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mobinafshari">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 </div>
 
 
