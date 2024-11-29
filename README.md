@@ -4,7 +4,7 @@
 </a>
 <h3 align="left"> Frontend Developer at Rayka</h3>
 <h3 align="left">What I'm Passionate About:</h3>
-<p align="left">• learning and improving as a <strong>Frontend Developer.</strong></p>
+<p align="left">• Learning and improving as a <strong>Frontend Developer.</strong></p>
 <p align="left">• <strong>Creating Large Scale Programs</strong> that have lots of active users and make their life better and easier.</p>
 <p align="left">• <strong>Collaborating with Large Teams</strong>, I like learning from other people knowledge and experiences and see problems from thier vision.</p>
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
@@ -14,7 +14,7 @@
 <p align="left">• I wanna know myself better and try to be better person.</p>
 
 <h3 align="left">Lets Connect :)</h3>
-<p align="left">• let's collaborate and grow together by improving our knowledge and personalities,I'd also be happy to contribute to your open source projects.</p>
+<p align="left">• Let's collaborate and grow together by improving our knowledge and personalities,I'd also be happy to contribute to your open source projects.</p>
 <p align="left">• <strong>Fun Facts:</strong> I love games ,watching anime , cooking.</p>
 <div align="left" style="display: flex; align-items: center; justify-content: center;">
   <p><strong>• How to Reach me:<strong/></p>
