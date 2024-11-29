@@ -8,7 +8,7 @@
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
 <h3 align="left">My Goals for This Year:</h3>
 <p align="left">• Dive into mobile development with Dart and Flutter.</p>
-<p align="left">• Share knowledge and experiences through writing articles and try yo implement public learning.</p>
+<p align="left">• Share knowledge and experiences through writing articles and try to implement public learning.</p>
 <p align="left">• I wanna know myself better and try to be better person.</p>
 
 <h3 align="left">Lets Connect :)</h3>
