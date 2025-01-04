@@ -8,14 +8,15 @@
 <p align="left">• <strong>Creating Large Scale Programs</strong> that have lots of active users and make their life better and easier.</p>
 <p align="left">• <strong>Collaborating with Large Teams</strong>, I like learning from other people knowledge and experiences and see problems from thier vision.</p>
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
-<h3 align="left">My Goals for This Year:</h3>
-<p align="left">• Dive into mobile development with Dart and Flutter.</p>
+<h3 align="left">My Goals for 2025:</h3>
+<p align="left">• Enhance teamwork, collaboration, and connections with developers.</p>
+<p align="left">• Level up my coding skills and deepen my expertise.</p>
 <p align="left">• Share knowledge and experiences through writing articles and try to implement public learning.</p>
 <p align="left">• I wanna know myself better and try to be better person.</p>
 
 <h3 align="left">Lets Connect :)</h3>
-<p align="left">• Let's collaborate and grow together by improving our knowledge and personalities,I'd also be happy to contribute to your open source projects.</p>
-<p align="left">• <strong>Fun Facts:</strong> I love games ,Watching anime , Cooking.</p>
+<p align="left">• Let's collaborate and grow together by improving our knowledge and personalities, I'd also be happy to contribute to your open source projects.</p>
+<p align="left">• <strong>Fun Facts:</strong> I love games, Watching football, movie and anime, Cooking.</p>
 <div align="left" style="display: flex; align-items: center; justify-content: center;">
   <p><strong>• How to Reach me:<strong/></p>
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/mobin-afshari/">
