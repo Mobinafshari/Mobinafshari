@@ -12,7 +12,6 @@
 <p align="left">• Enhance teamwork, collaboration, and connections with developers.</p>
 <p align="left">• Level up my coding skills and deepen my expertise.</p>
 <p align="left">• Share knowledge and experiences through writing articles and try to implement public learning.</p>
-<p align="left">• I wanna know myself better and try to be better person.</p>
 
 <h3 align="left">Lets Connect :)</h3>
 <p align="left">• Let's collaborate and grow together by improving our knowledge and personalities, I'd also be happy to contribute to your open source projects.</p>
