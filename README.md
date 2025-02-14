@@ -2,7 +2,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-<h3 align="left">Frontend Developer at Raika</h3>
+<h3 align="left">I' Mobin, Frontend Developer at Raika</h3>
 <h3 align="left">What I'm Passionate About:</h3>
 <p align="left">• Learning and improving as a <strong>Frontend Developer.</strong></p>
 <p align="left">• <strong>Creating Large Scale Programs</strong> that have lots of active users and make their life better and easier.</p>
