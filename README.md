@@ -6,7 +6,7 @@
 <h3 align="left">What I'm Passionate About:</h3>
 <p align="left">• Learning and improving as a <strong>Frontend Developer.</strong></p>
 <p align="left">• <strong>Creating Large Scale Programs</strong> that have lots of active users and make their life better and easier.</p>
-<p align="left">• <strong>Collaborating with Large Teams</strong>, I like learning from other people knowledge and experiences and see problems from thier vision.</p>
+<p align="left">• <strong>Collaborating with Large Teams</strong>, I enjoy learning from others' knowledge and experiences, gaining new perspectives on problem-solving.</p>
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
 <h3 align="left">My Goals for 2025:</h3>
 <p align="left">• Enhance teamwork, collaboration, and connections with developers.</p>
