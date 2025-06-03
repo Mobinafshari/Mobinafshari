@@ -9,7 +9,7 @@
 <p align="left">• <strong>Collaborating with Large Teams</strong>, I enjoy learning from others' knowledge and experiences, gaining new perspectives on problem-solving.</p>
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
 <h3 align="left">My Goals for 2025:</h3>
-<p align="left">• Enhance teamwork, collaboration, and connections with developers.</p>
+<p align="left">• Enhance teamwork, collaboration, and connections with other developers.</p>
 <p align="left">• Level up my coding skills and deepen my expertise.</p>
 <p align="left">• Share knowledge and experiences through writing articles and try to implement public learning.</p>
 
