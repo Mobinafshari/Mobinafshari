@@ -8,10 +8,10 @@
 <p align="left">• <strong>Creating Large Scale Programs</strong> that have lots of active users and make their life better and easier.</p>
 <p align="left">• <strong>Collaborating with Large Teams</strong>, I enjoy learning from others' knowledge and experiences, gaining new perspectives on problem-solving.</p>
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
-<h3 align="left">My Goals for 2025:</h3>
+<!-- <h3 align="left">My Goals for 2025:</h3>
 <p align="left">• Enhance teamwork, collaboration, and connections with other developers.</p>
 <p align="left">• Level up my coding skills and deepen my expertise.</p>
-<p align="left">• Share knowledge and experiences through writing articles and try to implement public learning.</p>
+<p align="left">• Share knowledge and experiences through writing articles and try to implement public learning.</p> -->
 
 <h3 align="left">Lets Connect :)</h3>
 <p align="left">• Let's collaborate and grow together by improving our knowledge and personalities, I'd also be happy to contribute to your open source projects.</p>
