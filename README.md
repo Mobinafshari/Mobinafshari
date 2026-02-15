@@ -2,9 +2,9 @@
 <!-- <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> -->
-<h3 align="left">I'm Mobin, Frontend Developer at System Group</h3>
+<h3 align="left">I'm Mobin, Software Engineer at System Group</h3>
 <h3 align="left">What I'm Passionate About:</h3>
-<p align="left">• Learning and improving as a <strong>Frontend Developer.</strong></p>
+<p align="left">• Learning and improving as a <strong>Software Engineer.</strong></p>
 <p align="left">• <strong>Creating Large Scale Programs</strong> that have lots of active users and make their life better and easier.</p>
 <p align="left">• <strong>Collaborating with Large Teams</strong>, I enjoy learning from others' knowledge and experiences, gaining new perspectives on problem-solving.</p>
 <p align="left">• <strong>Solve Problems</strong> from diffrent ways and choose the best solution for each case.</p>
